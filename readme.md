@@ -39,6 +39,9 @@ The string to use as a separator.
 
 ##### separators
 
+*Required*  
+Type: `array[number]`
+
 The numeric indicies at which separators should be inserted in the original string.
 
 ## License
