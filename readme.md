@@ -1,4 +1,4 @@
-# separate [![Build Status](https://travis-ci.org/bendrucker/separate.svg?branch=master)](https://travis-ci.org/bendrucker/separate)
+# separate [![Build Status](https://travis-ci.org/bendrucker/separate.svg?branch=master)](https://travis-ci.org/bendrucker/separate) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/separate.svg)](https://greenkeeper.io/)
 
 > Separate a string at the specified indicies
 
